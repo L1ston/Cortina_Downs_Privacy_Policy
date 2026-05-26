@@ -3,7 +3,7 @@ Privacy Policy
 Last updated: May 26, 2026
 
 This Privacy Policy applies to the game Cortina Downs: The Far Isles (the "Game").
-1. Data We Collect
+#1. Data We Collect
 
 We do not collect, store, or process any personal data from players. The Game does not include any analytics, telemetry, advertising SDKs, or user accounts of its own.
 2. Steam Platform
